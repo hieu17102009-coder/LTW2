@@ -1,0 +1,12 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<NetCoreMVCLab03.ViewComponents.Category>
+@{
+    ViewData["Title"] = "Default";
+}
+<div class="bg-danger" style="margin-top: 10px">
+    @foreach(var item in Model){
+        <p> @item.CategoryName</p>
+    }
+</div>

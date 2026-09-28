@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTW-2\\DemoCuaThay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|d:\\ltw-2\\democuathay\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|solutionrelative:models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|d:\\ltw-2\\democuathay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|d:\\ltw-2\\democuathay\\views\\sv\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|solutionrelative:views\\sv\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|d:\\ltw-2\\democuathay\\controllers\\svcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|solutionrelative:controllers\\svcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|d:\\ltw-2\\democuathay\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|d:\\ltw-2\\democuathay\\views\\sv\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|solutionrelative:views\\sv\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|d:\\ltw-2\\democuathay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEDD51D-FB52-11F2-4D16-A9F4C2386208}|DemoCuaThay.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\DemoCuaThay\\Views\\SV\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\SV\\Delete.cshtml",
+              "ToolTip": "D:\\LTW-2\\DemoCuaThay\\Views\\SV\\Delete.cshtml",
+              "RelativeToolTip": "Views\\SV\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T10:11:52.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SVController.cs",
+              "DocumentMoniker": "D:\\LTW-2\\DemoCuaThay\\Controllers\\SVController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SVController.cs",
+              "ToolTip": "D:\\LTW-2\\DemoCuaThay\\Controllers\\SVController.cs",
+              "RelativeToolTip": "Controllers\\SVController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T06:24:52.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\LTW-2\\DemoCuaThay\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Models\\SinhVien.cs",
+              "ToolTip": "D:\\LTW-2\\DemoCuaThay\\Models\\SinhVien.cs*",
+              "RelativeToolTip": "Models\\SinhVien.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T01:30:03.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\DemoCuaThay\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\LTW-2\\DemoCuaThay\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T01:27:36.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\DemoCuaThay\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LTW-2\\DemoCuaThay\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T01:25:16.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\DemoCuaThay\\Views\\SV\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\SV\\Edit.cshtml",
+              "ToolTip": "D:\\LTW-2\\DemoCuaThay\\Views\\SV\\Edit.cshtml",
+              "RelativeToolTip": "Views\\SV\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T07:04:07.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\LTW-2\\DemoCuaThay\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\LTW-2\\DemoCuaThay\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T01:26:08.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

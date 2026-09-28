@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div>
+  <button id="loadAjax" class="btn btn-sm btn-primary">Click load book tu partial view</button>
+  <hr />
+  <div id="data_from_Ajax" class="row">Loading data</div>
+  @await Component.InvokeAsync("Category")
+  <hr />
+  @section Scripts {
+      <script>
+          $("#loadAjax").click(function(){
+              $('#data_from_Ajax').load("/Book/PopularBook");
+              }
+          )
+      </script>
+  }
+</div>

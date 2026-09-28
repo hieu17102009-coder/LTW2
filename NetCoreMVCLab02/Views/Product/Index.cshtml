@@ -1,0 +1,51 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Index";
+    var products = ViewBag.Products;
+}
+<div class = "row">
+    <div class="col-md-3" >
+        <h2>Danh mục</h2>
+        <div class="list-group">
+            <a class="list-group-item list-group-item-action" asp-route="Type" asp-route-type ="1">Quần áo</a>
+            <a class="list-group-item list-group-item-action" asp-route="Type" asp-route-type ="2">Túi xách</a>
+            <a class="list-group-item list-group-item-action" asp-route="Type" asp-route-type ="3">Đồng hồ</a>
+            <a class="list-group-item list-group-item-action" asp-route="Type" asp-route-type ="4">Ti vi</a>
+            <a class="list-group-item list-group-item-action" asp-route="Type" asp-route-type ="5">Tủ lạnh</a>
+            <a class="list-group-item list-group-item-action" asp-route="Type" asp-route-type ="6">Máy bơm</a>
+            <a class="list-group-item list-group-item-action" asp-route="Type" asp-route-type ="7">QUạt điện</a>
+            <a class="list-group-item list-group-item-action" asp-route="Type" asp-route-type ="8">Lò sưởi</a>
+        </div>
+    </div>
+    <div class = "row col-md-9 ">
+        <h2>Danh sách sản phẩm</h2>
+        @foreach(var item in products)
+        {
+            <div class="col-md-4">
+                <div class="Thumbnail">
+                    <img src="@item.Img" alt=" "/>
+                </div>
+                <div class="caption">
+                    <h4>@item.Name</h4>
+                    <p>
+                        @if(item.discount != 0)
+                        {
+                            <span style="text-decoration: line-through">Giá: @item.Price</span>
+                            <span>  Giá: @(item.Price - item.discount) </span>
+                        }
+                        else
+                        {
+                            <span>  Giá: @item.Price </span>
+                        }
+                    </p>
+                    <p>
+                        <a class="btn btn-success btn-block" asp-route="Detail" asp-route-id = "@item.Id" >Chi tiết</a>
+                    </p>
+                    
+                </div>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,142 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+.Slide-container{
+    width:90%;
+    margin:auto;
+    position: relative;
+}
+.Slide{
+    display: none;
+}
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+.next{
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+.prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8)
+
+}
+.text {
+    color: black;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 12px;
+    width: 100%;
+    text-align: center;
+    bottom: 50px;
+}
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+ .active, .dot:hover {
+    background-color: #717171;
+  }
+.slide-fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+@keyframes fade {
+    from {opacity: 4} to {opacity: 1}
+}
+.dots {
+    position: absolute;
+    bottom: 25px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10;
+    text-align: center;
+}
+.bottom-item {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    width: 100%;
+    margin: auto;
+}
+.item-bot{
+    border: 2px solid lightgray;
+    text-align: center;
+}
+tr{
+    text-align:center;
+}
+table{
+    width:100%;
+    margin:auto;
+}
+tr img{
+    width: 50px;
+    height:auto;
+    display: block;
+    margin: 0 auto;
+}
+tr button{
+    background-color: greenyellow;
+    margin:auto;
+    border:  none;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 5px;
+}
+tr button:hover{
+    background-color:forestgreen;
+}
+td,th{
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+    padding: 10px;
+}
+th{
+    background-color: #eee;
+}

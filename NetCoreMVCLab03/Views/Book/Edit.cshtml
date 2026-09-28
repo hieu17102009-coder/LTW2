@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model NetCoreMVCLab03.Models.Book
+@{
+    ViewData["Title"] = "Edit";
+}
+<h2>Chỉnh sửa sách</h2>
+<form action="" method="Post" role="form">
+    <input type="hidden" asp-for="Id"/>
+    <div class="form-group mb-3">
+        <label asp-for="Title">Tên sách</label>
+        <input type="text" asp-for="Title" class="form-control" placeholder="@Model.Id" />
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="AuthorId">Tác giả</label>
+        <select asp-for = "AuthorId" asp-items="@ViewBag.Authors" >
+            <option value="@Model.AuthorId">Chọn tác giả</option>
+        </select>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Genres">Thể loại</label>
+        <select asp-for="GenreId" asp-items="@ViewBag.Genres">
+            <option value="@Model.GenreId">Chọn thể loại</option>
+        </select>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Price">Giá sách</label>
+        <input type="text" asp-for="Price" class="form-control" placeholder="@Model.Price" />
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="TotalPage">Tổng số trang</label>
+        <input type="text" asp-for="TotalPage" class="form-control" placeholder="@Model.TotalPage" />
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Image">Hình ảnh/ Poster</label>
+        <div class="mb-3">
+            <img src="@Model.Image" width="100" />
+        </div>    
+        <input type="file" asp-for="Image" class="form-control"  />
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Sumary">Mô tả</label>
+        <textarea class="form-control" asp-for="Sumary" placeholder="@Model.Sumary"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary mb-3">Xác nhận</button>
+</form>
+

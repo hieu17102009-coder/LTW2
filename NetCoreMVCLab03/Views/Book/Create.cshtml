@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model NetCoreMVCLab03.Models.Book
+@{
+    ViewData["Title"] = "Create"; 
+}
+<h2>Thêm sách mới</h2>
+<form action="" method="POST" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group mb-3">
+        <label asp-for="Title">Tên sách</label>
+        <input type="text" class="form-control" asp-for="Title" placeholder="Tên sách" />
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="AuthorId">Tên tác giả</label>
+        <select asp-for="AuthorId" asp-items="@ViewBag.Authors" class="form-control">
+            <option value="">Chọn tác giả</option>
+        </select>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="GenreId">Thể loại</label>
+        <select asp-for="GenreId" asp-items="@ViewBag.Genres" class="form-control">
+            <option value="">Chọn thể loại</option>
+        </select>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Price">Giá sách</label>
+        <input type="text" class="form-control" asp-for="Price" placeholder="Giá sách" />
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="TotalPage">Số trang </label>
+        <input type="text" class="form-control" asp-for="TotalPage" placeholder="Số trang sách" />
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Image">Hình ảnh/Poster</label>
+        <input type="file" class="form-control" asp-for="Image" />
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Sumary">Giới thiệu ngắn</label>
+        <textarea type="text" class="form-control" asp-for="Sumary" placeholder="Nội dung giới thiệu sách......"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary mb-3">Lưu lại</button>
+</form>

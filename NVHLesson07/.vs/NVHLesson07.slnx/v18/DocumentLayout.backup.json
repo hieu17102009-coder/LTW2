@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTW-2\\NVHLesson07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C142E3A3-0C86-4A5C-9378-CFE45C818E1F}|NVHLesson07.csproj|d:\\ltw-2\\nvhlesson07\\controllers\\nvhmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C142E3A3-0C86-4A5C-9378-CFE45C818E1F}|NVHLesson07.csproj|solutionrelative:controllers\\nvhmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C142E3A3-0C86-4A5C-9378-CFE45C818E1F}|NVHLesson07.csproj|d:\\ltw-2\\nvhlesson07\\views\\nvhmember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C142E3A3-0C86-4A5C-9378-CFE45C818E1F}|NVHLesson07.csproj|solutionrelative:views\\nvhmember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C142E3A3-0C86-4A5C-9378-CFE45C818E1F}|NVHLesson07.csproj|d:\\ltw-2\\nvhlesson07\\views\\nvhmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C142E3A3-0C86-4A5C-9378-CFE45C818E1F}|NVHLesson07.csproj|solutionrelative:views\\nvhmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C142E3A3-0C86-4A5C-9378-CFE45C818E1F}|NVHLesson07.csproj|d:\\ltw-2\\nvhlesson07\\models\\nvhmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C142E3A3-0C86-4A5C-9378-CFE45C818E1F}|NVHLesson07.csproj|solutionrelative:models\\nvhmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C142E3A3-0C86-4A5C-9378-CFE45C818E1F}|NVHLesson07.csproj|d:\\ltw-2\\nvhlesson07\\views\\nvhmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C142E3A3-0C86-4A5C-9378-CFE45C818E1F}|NVHLesson07.csproj|solutionrelative:views\\nvhmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\NVHLesson07\\Views\\NVHMember\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\NVHMember\\Edit.cshtml",
+              "ToolTip": "D:\\LTW-2\\NVHLesson07\\Views\\NVHMember\\Edit.cshtml",
+              "RelativeToolTip": "Views\\NVHMember\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T01:59:02.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\NVHLesson07\\Views\\NVHMember\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\NVHMember\\Create.cshtml",
+              "ToolTip": "D:\\LTW-2\\NVHLesson07\\Views\\NVHMember\\Create.cshtml",
+              "RelativeToolTip": "Views\\NVHMember\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T00:59:49.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\NVHLesson07\\Views\\NVHMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\NVHMember\\Index.cshtml",
+              "ToolTip": "D:\\LTW-2\\NVHLesson07\\Views\\NVHMember\\Index.cshtml",
+              "RelativeToolTip": "Views\\NVHMember\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T00:57:15.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NvhMemberController.cs",
+              "DocumentMoniker": "D:\\LTW-2\\NVHLesson07\\Controllers\\NvhMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NvhMemberController.cs",
+              "ToolTip": "D:\\LTW-2\\NVHLesson07\\Controllers\\NvhMemberController.cs*",
+              "RelativeToolTip": "Controllers\\NvhMemberController.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:54:27.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NVHMember.cs",
+              "DocumentMoniker": "D:\\LTW-2\\NVHLesson07\\Models\\NVHMember.cs",
+              "RelativeDocumentMoniker": "Models\\NVHMember.cs",
+              "ToolTip": "D:\\LTW-2\\NVHLesson07\\Models\\NVHMember.cs",
+              "RelativeToolTip": "Models\\NVHMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:43:03.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

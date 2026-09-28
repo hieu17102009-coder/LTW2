@@ -1,0 +1,49 @@
+@model NVHLesson07.Models.NVHMember
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>NVHMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="NvhName" class="control-label"></label>
+                <input asp-for="NvhName" class="form-control" />
+                <span asp-validation-for="NvhName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhPassword" class="control-label"></label>
+                <input asp-for="NvhPassword" class="form-control" />
+                <span asp-validation-for="NvhPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhEmail" class="control-label"></label>
+                <input asp-for="NvhEmail" class="form-control" />
+                <span asp-validation-for="NvhEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhPhone" class="control-label"></label>
+                <input asp-for="NvhPhone" class="form-control" />
+                <span asp-validation-for="NvhPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
