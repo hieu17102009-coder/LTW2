@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NVH_NETCORE_MVC_BTLab05/1.0.0": {
+        "runtime": {
+          "NVH_NETCORE_MVC_BTLab05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NVH_NETCORE_MVC_BTLab05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

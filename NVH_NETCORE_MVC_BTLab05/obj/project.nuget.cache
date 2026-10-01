@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DnSY8Yyv/GU=",
+  "success": true,
+  "projectFilePath": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\NVH_NETCORE_MVC_BTLab05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.2-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}
