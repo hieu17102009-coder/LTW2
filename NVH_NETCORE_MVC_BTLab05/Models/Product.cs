@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace NVH_NETCORE_MVC_BTLab05.Models
 {
@@ -11,8 +12,12 @@ namespace NVH_NETCORE_MVC_BTLab05.Models
         [Display(Name="Tên sản phẩm")]
         [Length(6,120,ErrorMessage ="Tên sản phẩm phải bao gồm từ 6 đến 150 ký tự")]
         public string Name { get; set; }
-        [Required(ErrorMessage = "Bạn cần upload ảnh sản phẩm")]
-        public string Image {  get; set; }
+        
+        //[Required(ErrorMessage = "Bạn cần upload ảnh sản phẩm")]
+        [NotMapped]
+        public IFormFile? Fimage { get; set; }
+        [Display(Name = "Ảnh sản phẩm")]
+        public string? Image {  get; set; }
         [Required(ErrorMessage = "Giá sản phẩm không được để trống")]
         [DataType(DataType.Text)]
         [Range(100000,float.MaxValue,ErrorMessage ="Giá sản phẩm phải lớn hơn hoặc bằng 100000")]
@@ -30,5 +35,7 @@ namespace NVH_NETCORE_MVC_BTLab05.Models
         public string Description {  get; set; }
         [Remote(action:"CategoryIdCheck",controller:"Product")]
         public int CategoryId { get; set; }
+        
+        
     }
 }

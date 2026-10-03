@@ -11,7 +11,7 @@ namespace NVH_NETCORE_MVC_BTLab05.Controllers
             {
                 Id = 1,
                 Name = "iPhone 15 Pro Max",
-                Image = "/images/Products/iphone15promax.jpg",
+                Image = "/images/Products/iphone15.webp",
                 Price = 29990000,
                 SalePrice = 27000000,
                 Description = "Điện thoại cao cấp với thiết kế sang trọng, hiệu năng mạnh mẽ và camera chất lượng cao.",
@@ -77,7 +77,7 @@ namespace NVH_NETCORE_MVC_BTLab05.Controllers
             {
                 Id = 7,
                 Name = "Samsung Galaxy Tab S9",
-                Image = "/images/tabs9.png",
+                Image = "/images/Products/tabs9.png",
                 Price = 18990000,
                 SalePrice = 17500000,
                 Description = "Máy tính bảng cao cấp với màn hình chất lượng cao và thời lượng pin tốt.",
@@ -154,9 +154,18 @@ namespace NVH_NETCORE_MVC_BTLab05.Controllers
             }
             return Json($"CategoryId ({CategoryId}) không có sẵn!!!");
         }
-        public IActionResult Index()
+        public IActionResult Index(int? id)
         {
-            return View(products);
+            List<Product> models;
+            if(id == null)
+            {
+                models = products;
+            }
+            else
+            {
+                models = products.FindAll(p => p.CategoryId == id);
+            }
+            return View(models);
         }
         public IActionResult Create()
         {
@@ -164,12 +173,23 @@ namespace NVH_NETCORE_MVC_BTLab05.Controllers
             return View(product);
         }
         [HttpPost]
-        public IActionResult Create(Product product) {
+        public async Task<IActionResult> Create(Product product) {
             try
             {
                 if (ModelState.IsValid)
                 {
                     product.Id = products.Count() + 1;
+                    string folder = Path.Combine(Directory.GetCurrentDirectory(), "/wwwrooot/images/Products");
+                    if (!Directory.Exists(folder)) { 
+                        Directory.CreateDirectory(folder);
+                    }
+                    string fileName = Guid.NewGuid().ToString() + Path.GetExtension(product.Fimage.FileName);
+                    string filePath = Path.Combine(folder, fileName);
+                    using (var stream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await product.Fimage.CopyToAsync(stream);
+                    }
+                    product.Image = "/images/Products/" + fileName;
                     products.Add(product);
                     return RedirectToAction("Index");
                 }
@@ -181,6 +201,72 @@ namespace NVH_NETCORE_MVC_BTLab05.Controllers
             catch{
                 return View(product);
             }
+        }
+
+        public IActionResult Details(int id)
+        {
+            Product model = products.FirstOrDefault(x => x.Id == id);
+            return View(model);
+
+        }
+        public IActionResult Edit(int id)
+        {
+            Product model = products.FirstOrDefault(x =>x.Id == id);
+            return View(model);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Edit(Product product, int id)
+        {
+            Product k = products.FirstOrDefault(x => x.Id == id);
+            int i = products.FindIndex(x => x.Id == id);
+            product.Id = id;
+            if (!ModelState.IsValid)
+            {
+                foreach (var error in ModelState)
+                {
+                    foreach (var e in error.Value.Errors)
+                    {
+                        Console.WriteLine($"{error.Key}: {e.ErrorMessage}");
+                    }
+                }
+                return View(product);
+            }
+            if (product.Fimage != null)
+            {
+                //string oldPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", k.Image.TrimStart('/'));
+                //if (System.IO.File.Exists(oldPath))
+                //{
+                //    System.IO.File.Delete(oldPath);
+                //}
+                string newPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/Products");
+                string nameFile = Guid.NewGuid().ToString() + Path.GetExtension(product.Fimage.FileName);
+                newPath = Path.Combine(newPath, nameFile);
+                using (FileStream fs = new FileStream(newPath, FileMode.Create))
+                {
+                    await product.Fimage.CopyToAsync(fs);
+                }
+                product.Image = "/images/Products/" + nameFile;
+            }
+            else
+            {
+                product.Fimage = k.Fimage;
+                product.Image = k.Image;
+                Console.WriteLine($"{products[i].Image}");
+            }
+            products[i] = product;
+            return RedirectToAction("Index");
+        }
+        public IActionResult Delete(int id) 
+        {
+            Product product = products.FirstOrDefault(x => x.Id==id);
+            return View(product);
+        }
+        [HttpPost]
+        public IActionResult Delete(int id,Product product)
+        {
+            int i = products.FindIndex(x => x.Id==id);
+            products.RemoveAt(i);
+            return RedirectToAction("Index");
         }
     }
 }

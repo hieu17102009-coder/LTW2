@@ -22,7 +22,6 @@ D:\LTW-2\NVH_NETCORE_MVC_BTLab05\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 D:\LTW-2\NVH_NETCORE_MVC_BTLab05\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\LTW-2\NVH_NETCORE_MVC_BTLab05\obj\Debug\net10.0\scopedcss\bundle\NVH_NETCORE_MVC_BTLab05.styles.css
 D:\LTW-2\NVH_NETCORE_MVC_BTLab05\obj\Debug\net10.0\scopedcss\projectbundle\NVH_NETCORE_MVC_BTLab05.bundle.scp.css
-D:\LTW-2\NVH_NETCORE_MVC_BTLab05\obj\Debug\net10.0\compressed\b7drd13un8-{0}-b9sayid5wm-b9sayid5wm.gz
 D:\LTW-2\NVH_NETCORE_MVC_BTLab05\obj\Debug\net10.0\compressed\r32thnl8lf-{0}-61n19gt1b8-61n19gt1b8.gz
 D:\LTW-2\NVH_NETCORE_MVC_BTLab05\obj\Debug\net10.0\compressed\sxyq5942zq-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 D:\LTW-2\NVH_NETCORE_MVC_BTLab05\obj\Debug\net10.0\compressed\w24ue5g8xl-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -98,3 +97,4 @@ D:\LTW-2\NVH_NETCORE_MVC_BTLab05\obj\Debug\net10.0\NVH_NETCORE_MVC_BTLab05.pdb
 D:\LTW-2\NVH_NETCORE_MVC_BTLab05\obj\Debug\net10.0\NVH_NETCORE_MVC_BTLab05.genruntimeconfig.cache
 D:\LTW-2\NVH_NETCORE_MVC_BTLab05\obj\Debug\net10.0\ref\NVH_NETCORE_MVC_BTLab05.dll
 D:\LTW-2\NVH_NETCORE_MVC_BTLab05\obj\Debug\net10.0\NVH_NETC.434387E5.Up2Date
+D:\LTW-2\NVH_NETCORE_MVC_BTLab05\obj\Debug\net10.0\compressed\b7drd13un8-{0}-62w7vyasfo-62w7vyasfo.gz

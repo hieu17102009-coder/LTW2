@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NVH_NETCORE_MVC_BTLab05")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e4bebe879405635a83acff7e95e5843250020c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d12c1b0a59dac2f4c13d9c582b1dd76d30c71c67")]
 [assembly: System.Reflection.AssemblyProductAttribute("NVH_NETCORE_MVC_BTLab05")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NVH_NETCORE_MVC_BTLab05")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

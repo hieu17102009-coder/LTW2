@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|d:\\ltw-2\\nvh_netcore_mvc_btlab05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|d:\\ltw-2\\nvh_netcore_mvc_btlab05\\views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|solutionrelative:views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|d:\\ltw-2\\nvh_netcore_mvc_btlab05\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|d:\\ltw-2\\nvh_netcore_mvc_btlab05\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|d:\\ltw-2\\nvh_netcore_mvc_btlab05\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|d:\\ltw-2\\nvh_netcore_mvc_btlab05\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|d:\\ltw-2\\nvh_netcore_mvc_btlab05\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|d:\\ltw-2\\nvh_netcore_mvc_btlab05\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|d:\\ltw-2\\nvh_netcore_mvc_btlab05\\viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1890FEFE-65AC-EB26-14D6-687D7C214BD5}|NVH_NETCORE_MVC_BTLab05.csproj|solutionrelative:viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,66 +38,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryViewComponent.cs",
+              "DocumentMoniker": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\ViewComponents\\CategoryViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\CategoryViewComponent.cs",
+              "ToolTip": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\ViewComponents\\CategoryViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\CategoryViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:24:36.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAADwv6YAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:22:41.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
-              "ToolTip": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Category\\Default.cshtml",
+              "ToolTip": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Category\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-01T10:12:09.592Z",
+              "WhenOpened": "2026-10-03T17:19:38.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Controllers\\ProductController.cs*",
-              "RelativeToolTip": "Controllers\\ProductController.cs*",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAuwLoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T08:41:34.335Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T17:29:19.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAADMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-01T09:48:08.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T08:23:07.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T08:22:51.015Z",
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\LTW-2\\NVH_NETCORE_MVC_BTLab05\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-03T17:39:27.88Z",
               "EditorCaption": ""
             }
           ]
