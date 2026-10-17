@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - NETCORECRUD</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    @RenderSection("Css",required: false)
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-2 bg-black p-3">
+                <h2 class="text-white mb-4">Quản lý</h2>
+                        <ul class="nav nav-pills flex-column text-white">
+                            <li class="nav-item"><a asp-controller="Home" asp-action="Index" class="nav-link active p-3">Trang chu</a></li>
+                            <li class="nav-item">
+                                <a asp-controller="Home" asp-action="About" class="nav-link p-3">Gioi thieu</a>
+                            </li>
+                            <li class="nav-item">
+                                <a asp-controller="Home" asp-action="Contact" class="nav-link p-3">Lien he</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Home" asp-action="Contact" class="nav-link p-3">Lien he</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Home" asp-action="Contact" class="nav-link p-3">Lien he</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Home" asp-action="Contact" class="nav-link p-3">Lien he</a>
+                            </li>
+                            <li>
+                                <a asp-controller="Home" asp-action="Contact" class="nav-link p-3">Lien he</a>
+                            </li>
+                        </ul>
+            </div>
+            <div class="col-9 col-md-10 bg-light p-3 min-vh-100">
+                <main role="main">
+                    @RenderBody()
+                </main>
+            </div>
+        </div>
+    </div>
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+

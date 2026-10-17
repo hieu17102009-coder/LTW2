@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - NETCORECRUD</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    @RenderSection("Css", required: false)
+</head>
+<body>
+    <div class="navbar-collapse collapse d-sm-flex justify-content-between bg-dark-subtle">
+            <ul class="navbar navbar-nav flex-row ">
+                <li class="nav-item p-3 "><a asp-area="Admins" asp-controller="DashBoard" asp-action="Index" class="">Dashboard</a></li>
+                <li class="nav-item p-3 "><a asp-area="Admins" asp-controller="Category" asp-action="Index" class="">Category</a></li>
+            </ul>
+    </div>
+    <div class="container ">
+        <main>
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>

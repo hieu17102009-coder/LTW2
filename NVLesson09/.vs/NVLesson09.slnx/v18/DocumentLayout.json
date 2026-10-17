@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTW-2\\NVLesson09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7996684C-1D53-8255-91D4-A3DD57447366}|NVLesson09.csproj|d:\\ltw-2\\nvlesson09\\views\\shared\\_nvhhomelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7996684C-1D53-8255-91D4-A3DD57447366}|NVLesson09.csproj|solutionrelative:views\\shared\\_nvhhomelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_NVHHomeLayout.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\NVLesson09\\Views\\Shared\\_NVHHomeLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_NVHHomeLayout.cshtml",
+              "ToolTip": "D:\\LTW-2\\NVLesson09\\Views\\Shared\\_NVHHomeLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_NVHHomeLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T00:50:08.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
