@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTW-2\\Nvh_THWLab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\views\\shared\\slide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:views\\shared\\slide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\nvh_thwlab01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:nvh_thwlab01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootrap1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootrap1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\views\\shared\\footerr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:views\\shared\\footerr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RenderLeftMenu.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:24:16.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RenderViewComponent.cs",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\RenderViewComponent.cs",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\ViewComponents\\RenderViewComponent.cs*",
+              "RelativeToolTip": "ViewComponents\\RenderViewComponent.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:11:15.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_MyLayout.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_MyLayout.cshtml",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\_MyLayout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_MyLayout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T12:46:31.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slide.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\Slide.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Slide.cshtml",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\Slide.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Slide.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T13:06:57.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TopNav.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\TopNav.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\TopNav.cshtml",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\TopNav.cshtml",
+              "RelativeToolTip": "Views\\Shared\\TopNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T13:03:10.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAvwGgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T00:50:55.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T01:17:55.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T13:23:51.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Models\\MenuItem.cs",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Models\\MenuItem.cs",
+              "RelativeToolTip": "Models\\MenuItem.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:14:49.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Nvh_THWLab01",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Nvh_THWLab01.csproj",
+              "RelativeDocumentMoniker": "Nvh_THWLab01.csproj",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Nvh_THWLab01.csproj*",
+              "RelativeToolTip": "Nvh_THWLab01.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T16:10:13.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T01:39:20.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAANgGAAAAAAAAAAAQwCQHAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-19T12:55:18.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootrap1.css",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootrap1.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootrap1.css",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootrap1.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootrap1.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-19T13:20:41.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAIk0AAAAAAAAAAAgwJo1AAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-19T12:52:14.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Footerr.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\Footerr.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Footerr.cshtml",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\Footerr.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Footerr.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T13:09:14.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAIEHAAAAAAAAAAAswLoHAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-19T12:58:04.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T00:42:40.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Models\\Gender.cs",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Models\\Gender.cs",
+              "RelativeToolTip": "Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T00:32:29.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T00:34:45.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Models\\Branch.cs",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Models\\Branch.cs",
+              "RelativeToolTip": "Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T00:33:25.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

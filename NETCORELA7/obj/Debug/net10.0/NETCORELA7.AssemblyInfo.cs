@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NETCORELA7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aae5c4a81fe37db1d871dabf84ccf73e77a89a16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a504ff07cb9c0921658ca218b013d6a2ddba4237")]
 [assembly: System.Reflection.AssemblyProductAttribute("NETCORELA7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NETCORELA7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

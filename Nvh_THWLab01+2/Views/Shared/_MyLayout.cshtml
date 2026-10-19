@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Nvh_THWLab01</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootrap1.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Nvh_THWLab01.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <partial name="TopNav" />
+    @await Component.InvokeAsync("Render")
+    <div class="container">
+        <main>
+            @RenderBody()
+        </main>
+    </div>
+    <!-- /.container -->
+    <partial name="Footerr" />
+    <!-- /.container -->
+    <!-- JavaScript -->
+    <script src="~/js/site.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

@@ -1,0 +1,85 @@
+@model Nvh_THWLab01.Models.Student
+
+@{
+    ViewData["Title"] = "Create";
+    var Branchs = ViewBag.AllBranchs;
+}
+
+<h1>Create</h1>
+
+<h4>Student</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class ="form-group mb-3">
+                <label asp-for="Image" class="control-label"></label>
+                <input type="file" name="Image"  class="d-block mb-3"/>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Branch" class="control-label"></label>
+                <select asp-for="Branch" class="customer-select mr-sm-2" asp-items="@Branchs"></select>
+                
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Gender" class="control-label d-inline-block"></label>
+                <div class="col-sm-10">
+                    @foreach (var item in ViewBag.AllGenders)
+                        {
+                            <label class="radio-inline"> 
+                                <input type="radio" asp-for="Gender" value="@item" id="Gender@(item)">@item<br/>
+                            </label>
+                        }
+                    </div>
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="IsRegular" class="control-label"></label>
+                <input asp-for="IsRegular" class="form-check-input" />
+                <span asp-validation-for="IsRegular" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="DateOfBirth" class="control-label"></label>
+                <input asp-for="DateOfBirth" class="form-control" />
+                <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
