@@ -83,8 +83,7 @@
               "RelativeToolTip": "Areas\\Admins\\Controllers\\DashBoardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T03:32:18.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T03:32:18.853Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "Areas\\Admins\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T03:47:31.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T03:47:31.287Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "Areas\\Admins\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T03:31:42.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T03:31:42.375Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "Areas\\Admins\\Views\\DashBoard\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T03:36:01.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T03:36:01.265Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T03:39:11.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T03:39:11.559Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "Areas\\Admins\\Views\\Category\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T03:47:45.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T03:47:45.468Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "Areas\\Admins\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T03:30:10.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T03:30:10.932Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-10-17T03:20:24.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T03:20:24.065Z"
             },
             {
               "$type": "Document",
@@ -187,21 +179,19 @@
               "RelativeToolTip": "Views\\Shared\\_Main.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T03:16:46.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T03:16:46.534Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "NETCORELA7",
+              "Title": "NETCORELA7.csproj",
               "DocumentMoniker": "D:\\LTW-2\\NETCORELA7\\NETCORELA7.csproj",
               "RelativeDocumentMoniker": "NETCORELA7.csproj",
               "ToolTip": "D:\\LTW-2\\NETCORELA7\\NETCORELA7.csproj",
               "RelativeToolTip": "NETCORELA7.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-17T03:12:45.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T03:12:45.767Z"
             }
           ]
         }

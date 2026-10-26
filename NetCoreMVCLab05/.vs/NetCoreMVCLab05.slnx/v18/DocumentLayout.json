@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{9938371A-AA20-40CF-9773-9D5FE2F6F9CD}|NetCoreMVCLab05.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9938371A-AA20-40CF-9773-9D5FE2F6F9CD}|NetCoreMVCLab05.csproj|d:\\ltw-2\\netcoremvclab05\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9938371A-AA20-40CF-9773-9D5FE2F6F9CD}|NetCoreMVCLab05.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9938371A-AA20-40CF-9773-9D5FE2F6F9CD}|NetCoreMVCLab05.csproj|d:\\ltw-2\\netcoremvclab05\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9938371A-AA20-40CF-9773-9D5FE2F6F9CD}|NetCoreMVCLab05.csproj|solutionrelative:views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938371A-AA20-40CF-9773-9D5FE2F6F9CD}|NetCoreMVCLab05.csproj|d:\\ltw-2\\netcoremvclab05\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938371A-AA20-40CF-9773-9D5FE2F6F9CD}|NetCoreMVCLab05.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9938371A-AA20-40CF-9773-9D5FE2F6F9CD}|NetCoreMVCLab05.csproj|d:\\ltw-2\\netcoremvclab05\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,15 +34,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\LTW-2\\NetCoreMVCLab05\\Views\\Account\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Create.cshtml",
               "ToolTip": "D:\\LTW-2\\NetCoreMVCLab05\\Views\\Account\\Create.cshtml",
               "RelativeToolTip": "Views\\Account\\Create.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE8AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAE8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-01T06:21:08.276Z"
+              "WhenOpened": "2026-10-01T06:21:08.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,22 +65,23 @@
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "D:\\LTW-2\\NetCoreMVCLab05\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T06:16:21.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Account.cs",
               "DocumentMoniker": "D:\\LTW-2\\NetCoreMVCLab05\\Models\\Account.cs",
               "RelativeDocumentMoniker": "Models\\Account.cs",
               "ToolTip": "D:\\LTW-2\\NetCoreMVCLab05\\Models\\Account.cs",
               "RelativeToolTip": "Models\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T05:50:49.124Z"
+              "WhenOpened": "2026-10-01T05:50:49.124Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LTW-2\\Nvh_THWLab01\\Nvh_THWLab01.csproj",
+      "projectUniqueName": "D:\\LTW-2\\Nvh_THWLab01+2\\Nvh_THWLab01.csproj",
       "projectName": "Nvh_THWLab01",
-      "projectPath": "D:\\LTW-2\\Nvh_THWLab01\\Nvh_THWLab01.csproj",
+      "projectPath": "D:\\LTW-2\\Nvh_THWLab01+2\\Nvh_THWLab01.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\LTW-2\\Nvh_THWLab01\\obj\\",
+      "outputPath": "D:\\LTW-2\\Nvh_THWLab01+2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

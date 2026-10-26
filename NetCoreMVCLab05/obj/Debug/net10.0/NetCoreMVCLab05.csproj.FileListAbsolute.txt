@@ -98,3 +98,15 @@ D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\NetCoreMVCLab05.pdb
 D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\NetCoreMVCLab05.genruntimeconfig.cache
 D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\ref\NetCoreMVCLab05.dll
 D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\NetCoreM.A037A14D.Up2Date
+D:\LTW-2\NetCoreMVCLab05\bin\Debug\net10.0\NetCoreMVCLab05.runtimeconfig.dev.json
+D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.lib.module.js
+D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.js
+D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.Config.js
+D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\dotnet-watch\browser-tools-key.public.json
+D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\dotnet-watch\browser-tools-key.private.json
+D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\jsmodules\jsmodules.build.manifest.json
+D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\scopedcss\scopedcss.cache
+D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\compressed\gklkcpd1t4-{0}-hbxp78vwan-hbxp78vwan.gz
+D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\compressed\exwhyjk6om-{0}-cfsovnfnub-cfsovnfnub.gz
+D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\compressed\kw33vv1zz6-{0}-pmpabpnd9a-pmpabpnd9a.gz
+D:\LTW-2\NetCoreMVCLab05\obj\Debug\net10.0\compressed\uwx5d30zvb-{0}-o299wl1apk-o299wl1apk.gz

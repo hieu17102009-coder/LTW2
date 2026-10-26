@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\LTW-2\\Nvh_THWLab01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\views\\shared\\slide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:views\\shared\\slide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|solutionrelative:views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D24103D-911F-0683-D085-9E33BD5EB745}|Nvh_THWLab01.csproj|d:\\ltw-2\\nvh_thwlab01\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,24 +99,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RenderLeftMenu.cshtml",
-              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-19T16:24:16.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "RenderViewComponent.cs",
               "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\ViewComponents\\RenderViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponents\\RenderViewComponent.cs",
-              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\ViewComponents\\RenderViewComponent.cs*",
-              "RelativeToolTip": "ViewComponents\\RenderViewComponent.cs*",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\RenderViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T16:11:15.841Z",
@@ -124,12 +111,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_MyLayout.cshtml",
               "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\_MyLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_MyLayout.cshtml",
-              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\_MyLayout.cshtml*",
-              "RelativeToolTip": "Views\\Shared\\_MyLayout.cshtml*",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_MyLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-19T12:46:31.351Z",
@@ -137,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Slide.cshtml",
               "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\Slide.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Slide.cshtml",
@@ -150,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "TopNav.cshtml",
               "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\TopNav.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\TopNav.cshtml",
@@ -159,6 +146,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-19T13:03:10.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RenderLeftMenu.cshtml",
+              "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:24:16.452Z",
               "EditorCaption": ""
             },
             {
@@ -219,8 +219,8 @@
               "Title": "Nvh_THWLab01",
               "DocumentMoniker": "D:\\LTW-2\\Nvh_THWLab01\\Nvh_THWLab01.csproj",
               "RelativeDocumentMoniker": "Nvh_THWLab01.csproj",
-              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Nvh_THWLab01.csproj*",
-              "RelativeToolTip": "Nvh_THWLab01.csproj*",
+              "ToolTip": "D:\\LTW-2\\Nvh_THWLab01\\Nvh_THWLab01.csproj",
+              "RelativeToolTip": "Nvh_THWLab01.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-10-19T16:10:13.646Z",

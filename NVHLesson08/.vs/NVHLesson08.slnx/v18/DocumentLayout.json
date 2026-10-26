@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{983D2F1E-0CE8-CBBE-33DB-9AD9DDC2B258}|NVHLesson08.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LTW-2\\NVHLesson08\\Views\\Book\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Book\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{983D2F1E-0CE8-CBBE-33DB-9AD9DDC2B258}|NVHLesson08.csproj|d:\\ltw-2\\nvhlesson08\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{983D2F1E-0CE8-CBBE-33DB-9AD9DDC2B258}|NVHLesson08.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -25,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{983D2F1E-0CE8-CBBE-33DB-9AD9DDC2B258}|NVHLesson08.csproj|d:\\ltw-2\\nvhlesson08\\models\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{983D2F1E-0CE8-CBBE-33DB-9AD9DDC2B258}|NVHLesson08.csproj|solutionrelative:models\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983D2F1E-0CE8-CBBE-33DB-9AD9DDC2B258}|NVHLesson08.csproj|d:\\ltw-2\\nvhlesson08\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{983D2F1E-0CE8-CBBE-33DB-9AD9DDC2B258}|NVHLesson08.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,16 +55,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\LTW-2\\NVHLesson08\\Views\\Book\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
-              "ToolTip": "D:\\LTW-2\\NVHLesson08\\Views\\Book\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Book\\Index.cshtml*",
+              "ToolTip": "D:\\LTW-2\\NVHLesson08\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Views\\Book\\Index.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-12T00:40:54.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T00:40:54.766Z"
             },
             {
               "$type": "Document",
@@ -72,16 +71,15 @@
               "Title": "BookController.cs",
               "DocumentMoniker": "D:\\LTW-2\\NVHLesson08\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookController.cs",
-              "ToolTip": "D:\\LTW-2\\NVHLesson08\\Controllers\\BookController.cs*",
-              "RelativeToolTip": "Controllers\\BookController.cs*",
+              "ToolTip": "D:\\LTW-2\\NVHLesson08\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T00:39:40.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T00:39:40.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LTW-2\\NVHLesson08\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -89,12 +87,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T01:45:43.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T01:45:43.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\LTW-2\\NVHLesson08\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -102,12 +99,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-05T01:39:05.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T01:39:05.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "BookStoreDbContext.cs",
               "DocumentMoniker": "D:\\LTW-2\\NVHLesson08\\Models\\BookStoreDbContext.cs",
               "RelativeDocumentMoniker": "Models\\BookStoreDbContext.cs",
