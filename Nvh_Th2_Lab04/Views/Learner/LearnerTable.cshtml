@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Learner>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model=>model.LearnerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstMidName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EnrollmentDate)
+            </th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayNameFor(model=>item.LearnerId)</td>
+                <td>
+                    @Html.DisplayFor(model => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.FirstMidName)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.EnrollmentDate)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.LearnerId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.LearnerId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.LearnerId">Delete</a>
+                </td>
+            </tr>
+        }
+</table>

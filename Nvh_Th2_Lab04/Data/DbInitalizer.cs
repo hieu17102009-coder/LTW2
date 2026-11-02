@@ -9,6 +9,13 @@ namespace Nvh_Th2_Lab04.Data
         {
             using (var context = new SchoolContext(serviceProvider.GetRequiredService<DbContextOptions<SchoolContext>>()))
             {
+                Console.WriteLine(
+    context.Database.GetDbConnection().DataSource
+);
+
+                Console.WriteLine(
+                    context.Database.GetDbConnection().Database
+                );
                 context.Database.EnsureCreated();
                 if (context.Majors.Any())
                 {
