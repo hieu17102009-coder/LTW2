@@ -37,6 +37,18 @@ namespace Nvh_Th2_Lab04.Data
                     new Learner{FirstMidName="Carson",LastName="Alexander",EnrollmentDate=DateTime.Parse("2005-09-01"),MajorID=1},
                                      
                     new Learner{FirstMidName="Meredith",LastName= "Alanso",EnrollmentDate=DateTime.Parse("2002-09-01"),MajorID =2},
+                    new Learner{FirstMidName="Carson1",LastName="Alexander",EnrollmentDate=DateTime.Parse("2005-09-01"),MajorID=1},
+
+                    new Learner{FirstMidName="Meredith2",LastName= "Alanso",EnrollmentDate=DateTime.Parse("2002-09-01"),MajorID =2},
+                    new Learner{FirstMidName="Carson3",LastName="Alexander",EnrollmentDate=DateTime.Parse("2005-09-01"),MajorID=1},
+
+                    new Learner{FirstMidName="Meredith4",LastName= "Alanso",EnrollmentDate=DateTime.Parse("2002-09-01"),MajorID =2},
+                    new Learner{FirstMidName="Carson5",LastName="Alexander",EnrollmentDate=DateTime.Parse("2005-09-01"),MajorID=1},
+
+                    new Learner{FirstMidName="Meredith6",LastName= "Alanso",EnrollmentDate=DateTime.Parse("2002-09-01"),MajorID =2},
+                    new Learner{FirstMidName="Carson7",LastName="Alexander",EnrollmentDate=DateTime.Parse("2005-09-01"),MajorID=1},
+
+                    new Learner{FirstMidName="Meredith8",LastName= "Alanso",EnrollmentDate=DateTime.Parse("2002-09-01"),MajorID =2},
                 };
                 foreach (var lean in leaners)
                 {
