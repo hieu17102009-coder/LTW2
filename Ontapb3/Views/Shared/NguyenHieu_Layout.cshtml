@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AssetHub - Quản lý tài sản doanh nghiệp</title>
+    <link href="css/layout.css" rel="stylesheet" type="text/css" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <!-- Begin NguyenHieu_Header -->
+    <header class="header">
+        <div class="topbar">
+            <div class="container">
+                <span>Phòng Hành chính - Quản trị: <b>(024) 3999 8888</b> &nbsp;|&nbsp; Hỗ trợ: taisan@assethub.vn</span>
+                <span>Xin chào, Quản trị viên &nbsp;|&nbsp; Đăng xuất</span>
+            </div>
+        </div>
+        <div class="header-main">
+            <div class="container">
+                <a href="index.html"><img src="images/logo.png" alt="AssetHub" /></a>
+                <div class="cart-box">Tổng tài sản: 16 - Nguyên giá: 3.125 triệu</div>
+            </div>
+        </div>
+        <nav class="navbar">
+            <div class="container">
+                <ul class="menu">
+                    <li class="active"><a href="index.html">Nguyen Van Hieu</a></li>
+                    @await Component.InvokeAsync("Menu")
+                </ul>
+                <form class="search-box">
+                    <input type="text" placeholder="Tìm tài sản..." />
+                    <button type="button">Tìm</button>
+                </form>
+            </div>
+        </nav>
+    </header>
+    <!-- End Header -->
+    <!--Begin NguyenHieu_MainContent-->
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <!--End MainContent-->
+    <!-- Begin NguyenHieu_Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="grid">
+                <div><h4>Về AssetHub</h4><ul><li><a href="#">Giới thiệu</a></li><li><a href="#">Quy chế quản lý</a></li><li><a href="#">Sơ đồ đơn vị</a></li></ul></div>
+                <div><h4>Hỗ trợ người dùng</h4><ul><li><a href="#">Hướng dẫn kiểm kê</a></li><li><a href="#">Quy trình bảo trì</a></li><li><a href="#">Bảo mật dữ liệu</a></li></ul></div>
+                <div><h4>Tài khoản</h4><ul><li><a href="#">Đăng nhập</a></li><li><a href="#">Hồ sơ cá nhân</a></li><li><a href="#">Tài sản được giao</a></li></ul></div>
+                <div><h4>Liên hệ</h4><ul><li>Hotline: (024) 3999 8888</li><li>Email: taisan@assethub.vn</li></ul></div>
+            </div>
+            <div class="copyright">&copy; 2026 AssetHub. Template phục vụ đề thi mẫu.</div>
+        </div>
+    </footer>
+    <!-- End Footer -->
+    <div class="to-top">&uarr;</div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

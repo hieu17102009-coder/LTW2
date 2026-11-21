@@ -1,0 +1,16 @@
+﻿@model IEnumerable<LoaiTaiSan>
+<nav class="navbar">
+    <div class="container">
+        <ul class="menu">
+            <li class="active"><a href="index.html">Nguyen Van Hieu</a></li>
+            @foreach(var i in Model)
+            {
+                <li><a class="loai-tai-san" href="#" data-url=@Url.Action("Home", "Locsp", new {maloai = @i.MaLoai})">@i.TenLoai</a></li>
+            }
+        </ul>
+        <form class="search-box">
+            <input type="text" placeholder="Tìm tài sản..." />
+            <button type="button">Tìm</button>
+        </form>
+    </div>
+</nav>

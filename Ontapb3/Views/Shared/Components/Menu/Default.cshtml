@@ -1,0 +1,5 @@
+﻿@model IEnumerable<LoaiTaiSan>
+@foreach (var m in Model)
+{
+    <li><a href="#" class="loai-tai-san" data-url="@Url.Action("TaiSanTheoLoai","Home",new {maloai=m.MaLoai})">@m.TenLoai</a></li>
+}
