@@ -1,0 +1,9 @@
+﻿@model IEnumerable<LoaiHang>
+<div class="menu">
+    <ul>
+        @foreach(var x in Model)
+        {
+            <li class="active"><a href="index.html">@x.TenLoai</a></li>
+        }   
+    </ul>
+</div> 

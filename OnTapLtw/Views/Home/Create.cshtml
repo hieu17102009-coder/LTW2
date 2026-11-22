@@ -1,0 +1,40 @@
+@model OnTapLtw.Models.HangHoa
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<h4>HangHoa</h4>
+<hr />
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly"></div>
+
+            <div>
+                <label asp-for="MaLoai"></label>
+                <input asp-for="MaLoai"/>
+                <span asp-validation-for="MaLoai"></span>
+            </div>
+
+            <div>
+                <label asp-for="TenHang" ></label>
+                <input asp-for="TenHang"  />
+                <span asp-validation-for="TenHang"></span>
+            </div>
+
+            <div>
+                <label asp-for="Gia" ></label>
+                <input asp-for="Gia"  />
+                <span asp-validation-for="Gia"></span>
+            </div>
+
+            <div >
+                <label asp-for="Anh" ></label>
+                <input asp-for="Anh"/>
+                <span asp-validation-for="Anh"></span>
+            </div>
+            </div>
+        </form>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
